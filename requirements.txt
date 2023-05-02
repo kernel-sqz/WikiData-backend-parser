@@ -1,0 +1,6 @@
+django
+django-rest-framework
+requests
+unidecode
+django-cors-headers
+pillow
